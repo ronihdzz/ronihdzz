@@ -3,9 +3,10 @@
 Mi nombre es Roni Hernández y soy estudiante de Ingenieria en Telecomunicaciones de nacionalidad mexicana y me encanta:
 *  💻  La programación y la automatización de los problemas
 *  😁	 Hacer proyectos por voluntad propia 
-* 🏊🏽🚴🏽🏃🏽 Practicar deporte en especial correr nadar y rodar: 
+* 🏊🏽🚴🏽🏃🏽 Practicar deporte en especial: correr, nadar y rodar 
 * 🎹🎼 Tocar el piano y escuchar musica 
-* Y la electronica.
+* Programar tarjetas de desarrollo como: el arduino el esp-32 y rasberry pi
+* El armado de cirucitos electricos.
 
 Tengo un interes profundo 😍 en la inteligencia artificial y el internet de las cosas por su gran potencial en conjunción para la resolucion de problemas.Puedes encontrarme en: [![LinkedIn][3.2]][3].
 
@@ -27,10 +28,7 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 
 <!-- INFORMACION DE MI ACTIVIDAD -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoniHernandez99&show_icons=true&theme=tokyonight)
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=RoniHernandez99&show_icons=true&theme=tokyonight&count_private=true)
 
 ### Mis repositorios publicos:
 
@@ -40,12 +38,12 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 
 <!-- icons without padding -->
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/RoniHernandez99/RoniHernandez99/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
 
-[3]: https://www.linkedin.com/in/
+[3]: https://www.linkedin.com/in/roni-hern%C3%A1ndez-613a62173/
 
 
 
