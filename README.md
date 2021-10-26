@@ -6,7 +6,7 @@ Mi nombre es Roni Hernández y soy estudiante de Ingenieria en Telecomunicacione
 * 🏊🏽🚴🏽🏃🏽 Practicar deporte en especial: correr, nadar y rodar 
 * 🎹🎼 Tocar el piano y escuchar musica 
 * Programar tarjetas de desarrollo como: el arduino, el esp-32 y rasberry pi
-* El armado de cirucitos electricos.
+* El armado de circuitos electricos.
 
 Tengo un interes profundo 😍 en la inteligencia artificial y el internet de las cosas por su gran potencial en conjunción para la resolucion de problemas.Puedes encontrarme en: [![LinkedIn][3.2]][3].
 
