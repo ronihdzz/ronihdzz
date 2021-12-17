@@ -30,11 +30,19 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 <!-- INFORMACION DE MI ACTIVIDAD -->
 ![](https://github-readme-stats.vercel.app/api?username=RoniHernandez99&show_icons=true&theme=tokyonight&count_private=true)
 
-### Mis repositorios publicos:
+### Algunos proyectos de mi autoria:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=Circuitos-RF-punto-Q)](https://github.com/RoniHernandez99/Circuitos-RF-punto-Q)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=CACPY)](https://github.com/RoniHernandez99/CACPY)
+
+### Algunos proyectos creados en cursos que he tomado:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Registro-y-control-de-empleados](https://github.com/RoniHernandez99/cursoDjango-Registro-y-control-de-empleados)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Blog](https://github.com/RoniHernandez99/cursoDjango-Blog)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-puntoDeVenta](https://github.com/RoniHernandez99/cursoDjango-puntoDeVenta)
 
 
 <!-- icons without padding -->
