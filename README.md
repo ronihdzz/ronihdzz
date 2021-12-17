@@ -38,11 +38,11 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 ### Algunos proyectos creados en cursos que he tomado:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Registro-y-control-de-empleados](https://github.com/RoniHernandez99/cursoDjango-Registro-y-control-de-empleados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Registro-y-control-de-empleados)](https://github.com/RoniHernandez99/cursoDjango-Registro-y-control-de-empleados)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Blog](https://github.com/RoniHernandez99/cursoDjango-Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Blog)](https://github.com/RoniHernandez99/cursoDjango-Blog)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-puntoDeVenta](https://github.com/RoniHernandez99/cursoDjango-puntoDeVenta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-puntoDeVenta)](https://github.com/RoniHernandez99/cursoDjango-puntoDeVenta)
 
 
 <!-- icons without padding -->
