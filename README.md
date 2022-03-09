@@ -32,6 +32,8 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 ### Algunos proyectos de mi autoria:
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=miWebPersonal)](https://github.com/RoniHernandez99/miWebPersonal)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=IoT_domotica)](https://github.com/RoniHernandez99/IoT_domotica)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=CACPY)](https://github.com/RoniHernandez99/CACPY)
