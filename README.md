@@ -50,6 +50,9 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-puntoDeVenta)](https://github.com/RoniHernandez99/cursoDjango-puntoDeVenta)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-webCafeteria)](https://github.com/RoniHernandez99/cursoDjango-webCafeteria)
+
+
 
 <!-- icons without padding -->
 [3.2]: https://github.com/RoniHernandez99/RoniHernandez99/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
