@@ -38,6 +38,8 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=CACPY)](https://github.com/RoniHernandez99/CACPY)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=CACPY)](https://github.com/RoniHernandez99/Simon_Dice_Troni)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=Circuitos-RF-punto-Q)](https://github.com/RoniHernandez99/Circuitos-RF-punto-Q)
 
 
