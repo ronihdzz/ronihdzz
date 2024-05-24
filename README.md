@@ -23,43 +23,43 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 ## &#x1f4c8; GitHub Stats
 
 <!-- LENGUAGES DE PROGRAMACION -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoniHernandez99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronihdzz)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 <!-- INFORMACION DE MI ACTIVIDAD -->
-![](https://github-readme-stats.vercel.app/api?username=RoniHernandez99&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=ronihdzz&show_icons=true&theme=tokyonight&count_private=true)
 
 ### Algunos proyectos de mi autoria:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=miWebPersonal)](https://github.com/RoniHernandez99/miWebPersonal)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=miWebPersonal)](https://github.com/ronihdzz/miWebPersonal)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=IoT_domotica)](https://github.com/RoniHernandez99/IoT_domotica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=IoT_domotica)](https://github.com/ronihdzz/IoT_domotica)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=CACPY)](https://github.com/RoniHernandez99/CACPY)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=CACPY)](https://github.com/ronihdzz/CACPY)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=metro-maps-cdmx)](https://github.com/RoniHernandez99/metro-maps-cdmx)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=metro-maps-cdmx)](https://github.com/ronihdzz/metro-maps-cdmx)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=Simon_Dice_Troni)](https://github.com/RoniHernandez99/Simon_Dice_Troni)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=Simon_Dice_Troni)](https://github.com/ronihdzz/Simon_Dice_Troni)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=Circuitos-RF-punto-Q)](https://github.com/RoniHernandez99/Circuitos-RF-punto-Q)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=Circuitos-RF-punto-Q)](https://github.com/ronihdzz/Circuitos-RF-punto-Q)
 
 
 
 ### Algunos proyectos creados en cursos que he tomado:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Registro-y-control-de-empleados)](https://github.com/RoniHernandez99/cursoDjango-Registro-y-control-de-empleados)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=cursoDjango-Registro-y-control-de-empleados)](https://github.com/ronihdzz/cursoDjango-Registro-y-control-de-empleados)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-Blog)](https://github.com/RoniHernandez99/cursoDjango-Blog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=cursoDjango-Blog)](https://github.com/ronihdzz/cursoDjango-Blog)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-puntoDeVenta)](https://github.com/RoniHernandez99/cursoDjango-puntoDeVenta)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=cursoDjango-puntoDeVenta)](https://github.com/ronihdzz/cursoDjango-puntoDeVenta)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RoniHernandez99&repo=cursoDjango-webCafeteria)](https://github.com/RoniHernandez99/cursoDjango-webCafeteria)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=cursoDjango-webCafeteria)](https://github.com/ronihdzz/cursoDjango-webCafeteria)
 
 
 
 <!-- icons without padding -->
-[3.2]: https://github.com/RoniHernandez99/RoniHernandez99/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://github.com/ronihdzz/ronihdzz/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
