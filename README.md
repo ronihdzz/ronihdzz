@@ -42,6 +42,12 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=Simon_Dice_Troni)](https://github.com/ronihdzz/Simon_Dice_Troni)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=push-to-dockerhub-action)](https://github.com/ronihdzz/push-to-dockerhub-action)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=push-to-digitalocean-action)](https://github.com/ronihdzz/push-to-digitalocean-action)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=test-action)](https://github.com/ronihdzz/test-action)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=Circuitos-RF-punto-Q)](https://github.com/ronihdzz/Circuitos-RF-punto-Q)
 
 
