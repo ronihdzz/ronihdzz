@@ -40,7 +40,7 @@ Tengo un interes profundo 😍 en la inteligencia artificial y el internet de la
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=central_var_rxd)](https://github.com/ronihdzz/central_var_rxd)
 
-[![Readme Card](https://github-readme-stcentral_var_rxdpi/pin/?username=ronihdzz&repo=Simon_Dice_Troni)](https://github.com/ronihdzz/Simon_Dice_Troni)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=Simon_Dice_Troni)](https://github.com/ronihdzz/Simon_Dice_Troni)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ronihdzz&repo=metro-maps-cdmx)](https://github.com/ronihdzz/metro-maps-cdmx)
 
